@@ -1,4 +1,4 @@
-```markdown
+
 # Tic-Tac-Toe with Minimax and Alpha-Beta Pruning
 
 ## Overview
